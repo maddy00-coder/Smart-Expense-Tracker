@@ -21,8 +21,6 @@
     "recharts": "^2.15.0"
   },
   "devDependencies": {
-    "@esbuild/win32-x64": "^0.25.12",
-    "@rollup/rollup-win32-x64-msvc": "^4.60.1",
     "@vitejs/plugin-react": "^4.3.4",
     "esbuild": "^0.25.12",
     "vite": "^6.0.3"
