@@ -8,7 +8,6 @@
     "start": "node src/server.js"
   },
   "dependencies": {
-    "@hapi/hoek": "^9.3.0",
     "bcryptjs": "^2.4.3",
     "cookie-parser": "^1.4.7",
     "cors": "^2.8.5",
@@ -16,11 +15,7 @@
     "express": "^4.21.2",
     "joi": "^17.13.3",
     "jsonwebtoken": "^9.0.2",
-    "kareem": "^3.3.0",
-    "mongodb": "^6.20.0",
-    "mongodb-connection-string-url": "^3.0.2",
     "mongoose": "^8.24.0",
-    "morgan": "^1.10.0",
-    "whatwg-url": "^16.0.1"
+    "morgan": "^1.10.0"
   }
 }
